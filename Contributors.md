@@ -2385,6 +2385,8 @@
 - [Daniel Freire](https://github.com/proxyanon)
 - [Septiyadi](https://github.com/uni-fied)
 - [Macho Maheen](https://github.com/MachoMaheen)
+- [Deepika Kumari Singh](https://github.com/dips6202)
 
+  
 
 <!-- prettier-ignore-end -->
